@@ -24,7 +24,7 @@ pymysql==0.9.*
 psycopg2-binary==2.8.*
 pycurl==7.43.0.*
 statsd==3.3.*
-cryptography==2.8.*
+cryptography==3.2.*
 
 ## Useful tools
 
