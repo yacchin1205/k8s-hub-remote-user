@@ -2,7 +2,7 @@ FROM ubuntu:18.04
 
 ## NOTE: This is a default and be overridden by chartpress using the
 ##       chartpress.yaml configuration
-ARG JUPYTERHUB_VERSION=git+https://github.com/RCOSDP/CS-jupyterhub.git@master
+ARG JUPYTERHUB_VERSION=git+https://github.com/yacchin1205/jupyterhub.git@feature/cors
 
 RUN apt-get update && \
     apt-get install -y --no-install-recommends \
