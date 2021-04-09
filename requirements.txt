@@ -16,7 +16,7 @@ nullauthenticator==1.0.*
 oauthenticator==0.11.*
 
 ## Spawners
-jupyterhub-kubespawner==0.11.*
+jupyterhub-kubespawner==0.16.*
 kubernetes==10.0.*
 
 ## Other dependencies
